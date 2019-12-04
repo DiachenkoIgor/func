@@ -1,4 +1,4 @@
-;;; Varient 5
+;;; Varient 4
 (defun check_symbol (a b)
 	(if(char= a b) t
 		nil
